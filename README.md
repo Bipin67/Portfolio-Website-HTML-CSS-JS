@@ -1,7 +1,7 @@
 # Portfolio-Website-HTML-CSS-JS
 Responsive Portfolio Website using HTML, CSS and Javascript
 
-*Proposal
+* Proposal
 The main purpose of this coursework is to develop a portfolio website including five webpages using HTML5, CSS3 and JavaScript. There must be a contact forum, portfolio and a blog pages which includes the impacts of the technology in the daily lives. Also a research page is a must where at least five references websites are required.
 
 
