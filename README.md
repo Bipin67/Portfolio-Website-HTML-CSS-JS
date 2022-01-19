@@ -1,7 +1,7 @@
 # Portfolio-Website-HTML-CSS-JS
 Responsive Portfolio Website using HTML, CSS and Javascript
 
-* Proposal
+* Proposal:
 The main purpose of this coursework is to develop a portfolio website including five webpages using HTML5, CSS3 and JavaScript. There must be a contact forum, portfolio and a blog pages which includes the impacts of the technology in the daily lives. Also a research page is a must where at least five references websites are required.
 
 
@@ -19,22 +19,22 @@ The main purpose of this coursework is to develop a portfolio website including 
 
 
 
-* Scope of the project
+* Scope of the project:
 This project helps to enhance the knowledge about the HTML5, CSS3 and the JavaScript. Making portfolio website will help us to understand many of the tags, styles and many more. It will be consisting of five pages i.e.  Home, Blog, Portfolio, Research and Contact. 
 
 
 
-*	Aims and Objectives
+*	Aims and Objectives:
 The main goal of this coursework is to gain knowledge about HTML5, CSS3 and JavaScript for the betterment of computerized and secured system. This project was assigned to produce a clear and good conceptual and logical process of developing websites. Lots of research on websites will be necessary to complete this task.
 
 
 
-*	Target Audience
+*	Target Audience:
 The main target of this project is to develop portfolio website with full of advancement using computer. Portfolio website includes the job or the profession they are following. Mainly, business  classed  person  who  are  busy  on  their  works  cannot  go  out  for hunting the people they want,  many  differently  able  person  and  many  person  who  don’t  like  to stay  on  markets/shops  and  in  line  just  to hire a person they want are  the  targeted audience of this project.
 
 
 
-*	Hardware and Software installations
+*	Hardware and Software installations:
 To start this project, we need a text editor to write our code and a browser to display the web pages that has been develop. We can use a text editor of our choice including Notepad++, Sublime Text, Atom or any other text editor that we are comfortable with. Also, we can use any web browser including Google Chrome, Firefox, Microsoft Edge, Internet Explorer etc. to display the web pages.
 
 
